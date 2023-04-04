@@ -1,4 +1,4 @@
-<h1 align="center">THE DARK PLACE</h1>
+<h1 align="center">| THE DARK PLACE |</h1>
 
 # 42 INTRA
 
