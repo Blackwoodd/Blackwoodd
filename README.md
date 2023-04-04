@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-<p align="center"> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b) 
 
 # 💻 Tech Stack:
 
@@ -18,7 +18,7 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=Blackwoodd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p><hr>
+username=Blackwoodd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Blackwoodd" /></p><hr>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
