@@ -6,6 +6,9 @@
 
 <p align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b" alt="Blackwoodd" /><p>
 
+<p align="center">&nbsp;<img align="center" src="[Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Blackwood#9872)" alt="Blackwoodd" /><p>
+<p align="center">&nbsp;<img align="center" src="[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b)" alt="Blackwoodd" /><p>
+
 # 💻 SKILLS:
 
 <p align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="Blackwoodd" /><p>
