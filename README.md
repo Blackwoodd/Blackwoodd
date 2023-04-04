@@ -4,9 +4,7 @@
 
 ## 🌐 SOCIALS:
 
-<p align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]https://instagram.com/_nathan._b" alt="Blackwoodd" /><p>
-  
-src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]https://discord.gg/Blackwood#9872" alt="Blackwoodd"
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Blackwood#9872) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b) 
 
 # 💻 SKILLS:
 
