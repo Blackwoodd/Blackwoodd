@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b) 
+<p align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b" alt="Blackwoodd" /><p>
 
 # 💻 Tech Stack:
 
