@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfvaiqx8000608l6g6y0npcu/stats?cursusId=21&coalitionId=47" alt="nbechon's 42 stats" /></a>
 
 ## 🌐 Socials:
-<p align="center"> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b) 
+<p align="center"> <[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b)> 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
