@@ -17,10 +17,8 @@
 <p align="center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=Blackwoodd&theme=tokyonight&hide_border=false)<br/>
 
 
-<p align="center"> src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=Blackwoodd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=Blackwoodd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p><hr>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
