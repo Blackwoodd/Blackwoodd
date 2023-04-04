@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfvaiqx8000608l6g6y0npcu/stats?cursusId=21&coalitionId=47" alt="nbechon's 42 stats" /></a>
 
-## 🌐 SOCIALS:
+<h1 align="center">🌐 SOCIALS</h1>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Blackwood#9872) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nathan._b) 
 
