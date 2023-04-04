@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Blackwoodd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Blackwoodd" /><p>>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Blackwoodd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Blackwoodd" /><p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blackwoodd&theme=tokyonight&hide_border=false)<br/>
 
