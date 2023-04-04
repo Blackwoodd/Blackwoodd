@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">&nbsp;<img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="Blackwoodd" /><p>
 
 # 📊 GitHub Stats:
 
