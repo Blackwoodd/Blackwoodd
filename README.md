@@ -1,4 +1,4 @@
-![téléchargement (2)](https://user-images.githubusercontent.com/107251262/232810061-d0fe2f87-931b-4776-9fa7-8aaf3cfdaf6a.jpg)
+<p align="center"> <a href="https://profile.intra.42.fr/users/nbechon"><img src="https://user-images.githubusercontent.com/107251262/232810061-d0fe2f87-931b-4776-9fa7-8aaf3cfdaf6a.jpg" alt="nbechon's 42 stats" /></a>
 
 <h1 align="center">| THE DARK PLACE |</h1>
 
