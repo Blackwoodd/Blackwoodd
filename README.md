@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="[https://www.edisonlee55.com](https://i.pinimg.com/originals/7a/5b/28/7a5b281cadc358131b59aeabbfb9fbcc.jpg)"></a>
-</p>
+![téléchargement (2)](https://user-images.githubusercontent.com/107251262/232810061-d0fe2f87-931b-4776-9fa7-8aaf3cfdaf6a.jpg)
 
 <h1 align="center">| THE DARK PLACE |</h1>
 
