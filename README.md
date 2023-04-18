@@ -1,4 +1,4 @@
-![from_url](https://i.imgur.com/your-profile-picture.png)
+![from_url]([https://i.imgur.com/your-profile-picture.png](https://i.pinimg.com/originals/7a/5b/28/7a5b281cadc358131b59aeabbfb9fbcc.jpg))
 
 <h1 align="center">| THE DARK PLACE |</h1>
 
