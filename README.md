@@ -1,4 +1,6 @@
-![include banner]
+<p align="center">
+  <a href="[https://www.edisonlee55.com](https://i.pinimg.com/originals/7a/5b/28/7a5b281cadc358131b59aeabbfb9fbcc.jpg)"></a>
+</p>
 
 <h1 align="center">| THE DARK PLACE |</h1>
 
