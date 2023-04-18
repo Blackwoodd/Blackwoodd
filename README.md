@@ -1,3 +1,5 @@
+![from_url](https://i.imgur.com/your-profile-picture.png)
+
 <h1 align="center">| THE DARK PLACE |</h1>
 
 # 42 INTRA
