@@ -1,4 +1,4 @@
-[!include banner]
+![include banner]
 
 <h1 align="center">| THE DARK PLACE |</h1>
 
