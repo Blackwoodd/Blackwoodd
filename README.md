@@ -20,7 +20,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwoodd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Blackwoodd" /><p>
 # MY BLOG
-<p align="center">&nbsp;<img align="center"  src="https://etudiant42.blogspot.com" alt="Blackwoodd" /><p>
+<p align="center" etudiant42.blogsport.com
   
 # 📌 AND DON'T FORGET
 <p align="center">&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Blackwoodd" /><p>
