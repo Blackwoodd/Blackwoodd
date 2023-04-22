@@ -19,8 +19,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blackwoodd&theme=tokyonight&hide_border=false" alt="Blackwoodd" /><p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwoodd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Blackwoodd" /><p>
-# MY BLOG
-<p align="center" etudiant42.blogsport.com
+# MY BLOG :
+  
+<p align="center" src="etudiant42.blogsport.com"
   
 # 📌 AND DON'T FORGET
 <p align="center">&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Blackwoodd" /><p>
