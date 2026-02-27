@@ -1,4 +1,4 @@
-<h1 align="center">| Nathan Bechon |</h1>
+<h1 align="center">Nathan Bechon</h1>
 <h2 align="center">| AI Engineer | GenAI | RAG | AWS |</h2>
 
 # 42 INTRA
