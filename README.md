@@ -1,8 +1,7 @@
-<h1 align="center">| THE DARK PLACE |</h1>
+<h1 align="center">| Nathan Bechon |</h1>
+<h2 align="center">| AI Engineer | GenAI | RAG | AWS |</h2>
 
 # 42 INTRA
-
-<p align="center"> <a href="https://profile.intra.42.fr/users/nbechon"><img src="https://badge42.vercel.app/api/v2/clfvaiqx8000608l6g6y0npcu/stats?cursusId=21&coalitionId=47" alt="nbechon's 42 stats" /></a>
 
 # 🌐 SOCIALS :
 
