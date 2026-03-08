@@ -51,22 +51,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmirlico&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blackwoodd/Blackwoodd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blackwoodd/Blackwoodd/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Blackwoodd/Blackwoodd/output/github-snake.svg" />
-</picture>
-
-<br/>
-
----
-
 ## 📬 Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bechon.nathan@gmail.com)
