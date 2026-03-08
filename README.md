@@ -3,11 +3,15 @@
 📍 France | 🤖 AI Engineer | 🧠 Automation • LLM Systems • Intelligent Software
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](#)
+[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)](#)
+[![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white)](#)
+[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white)](#)
 
 > I build intelligent systems combining **AI, automation, and modern software engineering**.
 
@@ -36,41 +40,6 @@
 
 ---
 
-# 🛠 Tech Stack
-
-### AI & Data
-- Python
-- LangChain
-- Vector Databases
-
-### Backend
-- FastAPI
-- Node.js
-- REST APIs
-- Docker
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📬 Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white)](LINK)
-
----
-
-⭐ Always interested in **AI projects, automation systems, and innovative tech collaborations**.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bechon.nathan@gmail.com)
