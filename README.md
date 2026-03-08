@@ -1,30 +1,50 @@
-# Nathan — AI Engineer
+# Hi, I'm Nathan 👋
 
-I design and build intelligent systems that combine **artificial intelligence, automation, and modern software engineering** to solve real-world problems.
+📍 France | 🤖 AI Engineer | 🧠 Automation • LLM Systems • Intelligent Software
 
-My focus is on building practical AI solutions: integrating large language models, automating workflows, and creating scalable systems that leverage data and machine learning.
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)](#)
 
----
-
-## Areas of Focus
-
-- AI-powered applications
-- LLM integrations
-- Workflow automation
-- Data-driven systems
-- Intelligent tools and agents
+> I build intelligent systems combining **AI, automation, and modern software engineering**.
 
 ---
 
-## Tech Stack
+# 🧠 What I Work On
 
-### AI / Data
+- Building **AI-powered applications**
+- Developing **LLM integrations**
+- Creating **automation systems**
+- Designing **data-driven platforms**
+- Improving **security and infrastructure**
+
+---
+
+# 🚀 Projects
+
+### ⭐ Featured
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **AI Assistant** | Intelligent assistant interacting with APIs and internal data | Python, FastAPI, OpenAI |
+| ⚡ **Automation Engine** | Workflow automation system for repetitive tasks | Python, Docker |
+| 📊 **AI Data Platform** | Pipeline for structuring and analyzing large datasets | Python, PostgreSQL |
+| 🌐 **AI Web Tools** | Web platform integrating AI-powered features | TypeScript, FastAPI |
+
+---
+
+# 🛠 Tech Stack
+
+### AI & Data
 - Python
-- PyTorch
-- TensorFlow
 - OpenAI API
 - LangChain
 - Vector Databases
+- PyTorch
 
 ### Backend
 - FastAPI
@@ -32,56 +52,33 @@ My focus is on building practical AI solutions: integrating large language model
 - REST APIs
 - Docker
 
-### Data
+### Databases
 - PostgreSQL
-- MongoDB
 - Redis
-
-### Other
-- Web automation
-- API integrations
-- System design
+- MongoDB
 
 ---
 
-## Projects
+# 📊 GitHub Stats
 
-### AI Automation Tool
-Automation system powered by LLMs that assists with task execution and workflow optimization.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-Tech:
-Python, OpenAI API, FastAPI
-
----
-
-### Intelligent Data Processing System
-Pipeline that processes and structures large datasets for AI-driven analysis.
-
-Tech:
-Python, Pandas, PostgreSQL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### AI Assistant
-Custom assistant capable of interacting with company data and APIs.
+# 📬 Connect
 
-Tech:
-Python, LangChain, Vector Database
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK)
 
-## What I enjoy building
-
-- AI tools that improve productivity
-- Intelligent automation systems
-- LLM-powered applications
-- AI driven platforms
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white)](LINK)
 
 ---
 
-## Contact
-
-If you're interested in collaborating on AI projects or building intelligent systems:
-
-Email: your@email.com  
-LinkedIn: link
+⭐ Always interested in **AI projects, automation systems, and innovative tech collaborations**.
